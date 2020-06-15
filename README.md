@@ -15,3 +15,6 @@ The aligned SAM/BAM files of each human samples are performed gene expression an
 * The orginial XenofilteR source code is available at https://github.com/PeeperLab/XenofilteR
 
 Raw paired-end Fastq files are aligned to human reference genome using Partek (version) then apply XenofileR to distinguish the human and mouse reads in patient derived xenograft sequencing data.
+
+
+Index of cancer-associated fibroblasts is superior to epithelial–mesenchymal transition score in prognosis prediction
